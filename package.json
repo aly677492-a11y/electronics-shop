@@ -6,12 +6,15 @@
   "author": "Creative Tim",
   "license": "Creative Tim License <www.creative-tim.com/license>",
   "devDependencies": {
-    "gulp": "^4.0.2",
-    "gulp-autoprefixer": "^6.1.0",
-    "gulp-clean": "^0.4.0",
-    "gulp-install": "^1.1.0",
-    "gulp-sass": "^4.0.2",
-    "gulp-sourcemaps": "^2.6.5",
-    "gulp-open": "^3.0.1"
+"devDependencies": {
+  "gulp": "^4.0.2",
+  "gulp-autoprefixer": "^10.0.0",
+  "gulp-clean": "^0.4.0",
+  "gulp-install": "^1.1.0",
+  "gulp-sass": "^5.0.0",
+  "gulp-sourcemaps": "^3.0.0",
+  "gulp-open": "^3.0.1",
+  "sass": "^1.60.0"
+}
   }
 }
